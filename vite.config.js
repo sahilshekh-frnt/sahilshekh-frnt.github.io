@@ -5,9 +5,5 @@ import react from "@vitejs/plugin-react";
 export default defineConfig({
   base: "/", // Set base to the repository name
   plugins: [react()],
-  build: {
-    outDir: "dist",
-    assetsDir: "assets",
-  },
   assetsInclude: ["**/*.glb"],
 });
