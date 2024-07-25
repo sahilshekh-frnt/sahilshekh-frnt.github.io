@@ -3,7 +3,7 @@
   "private": true,
   "version": "0.0.0",
   "type": "module",
-  "homepage": "https://sahilshekh-frnt.github.io/sahilshekh.github.io",
+  "homepage": "https://sahilshekh-frnt.github.io",
   "scripts": {
     "dev": "vite",
     "build": "vite build",
